@@ -3,8 +3,6 @@
 <span style="font-weight:bold;">Welcome to my Github profile</span>
 </div>
 
----
-
 ### 📫 Connect with Me
 
 <p align="left">
